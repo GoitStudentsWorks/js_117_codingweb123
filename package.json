@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/super-project-group-03/",
+    "build": "vite build --base=/js_117_codingweb123/",
     "preview": "vite preview"
   },
   "devDependencies": {
